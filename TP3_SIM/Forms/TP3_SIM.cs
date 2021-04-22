@@ -29,7 +29,6 @@ namespace TP3_SIM
             txtA.Enabled = false; txtB.Enabled = false; txtMedia.Enabled = false; txtVarianza.Enabled = false;
         }
 
-
         //-------------------------------------------------------------VERIFICACIONES SOBRE LA DISTRIBUCION SELECCIONADA
         private void cmbDistribuciones_SelectedIndexChanged(object sender, EventArgs e)
         {
@@ -223,7 +222,6 @@ namespace TP3_SIM
         {
             int distribucion = obtenerDistribucion();
 
-
             if (dgbAleatorios.Rows.Count == 0)
             {
                 MessageBox.Show("ERROR!, Primero debe generar los valores aleatorios.", "¡ERROR!", MessageBoxButtons.OK, MessageBoxIcon.Error);
@@ -317,10 +315,8 @@ namespace TP3_SIM
                                 {
                                     MessageBox.Show("No seleccionó distribución");
                                 }
-
                             }
                         }
-
                     }
                     
                     bool resultado = generarChiCuadrado(media, varianza);
@@ -339,8 +335,7 @@ namespace TP3_SIM
             }
 
         }
-
-
+        //-------------------------------------------------------------METODO PARA GENERAR CHI-CUADRADO
         private bool generarChiCuadrado(double media, double desviacion)
         {
 
@@ -384,7 +379,6 @@ namespace TP3_SIM
                         fe = (MathNet.Numerics.Distributions.Normal.CDF(media, desviacion, hasta) - MathNet.Numerics.Distributions.Normal.CDF(media, desviacion, desde)) * dgbAleatorios.Rows.Count;
                         break;
                     case 3:
-                        //VERIFICAR SI SE MULTIPLICA
                         fe = (MathNet.Numerics.Distributions.Poisson.CDF(media, hasta) - MathNet.Numerics.Distributions.Poisson.CDF(media, desde)) * dgbAleatorios.Rows.Count;
                         break;
                     case 4:
@@ -405,8 +399,8 @@ namespace TP3_SIM
                 reportViewer1.LocalReport.DataSources.Clear();
                 reportViewer1.LocalReport.DataSources.Add(Datos);
                 reportViewer1.RefreshReport();
-
             }
+
             dgbPruebasBondad.DataSource = tabla;
         
             if (dgbPruebasBondad.Rows.Count > 0)
@@ -417,8 +411,8 @@ namespace TP3_SIM
             {
                 return false;
             }
-
         }
+        //-------------------------------------------------------------METODO PARA OBTENER EL TIPO DE DISTRIBUCION ELEGIDO
         private int obtenerDistribucion()
         {
             if (cmbDistribuciones.Text.Equals("Exponencial Negativa"))
@@ -444,7 +438,7 @@ namespace TP3_SIM
                 }
             }
         }
-
+        //-------------------------------------------------------------BOTON PARA CALCULAR LA APROBACION O RECHAZO DE LA HIPOTESIS
         private void btnChiTabulado_Click(object sender, EventArgs e)
         {
             if (cmbSignificancia.Enabled == false)
@@ -470,7 +464,7 @@ namespace TP3_SIM
                 }
             }
         }
-
+        //-------------------------------------------------------------ACTUACION DEL COMBO BOX SIGNIFICANCIA 
         private void cmbSignificancia_SelectedIndexChanged(object sender, EventArgs e)
         {
             if (cmbSignificancia.SelectedIndex != -1)
