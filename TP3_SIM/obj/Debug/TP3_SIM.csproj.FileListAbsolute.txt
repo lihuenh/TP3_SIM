@@ -1,0 +1,150 @@
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\TP3_SIM.exe.config
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\TP3_SIM.exe
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\TP3_SIM.pdb
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\obj\Debug\TP3_SIM.csprojAssemblyReference.cache
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\obj\Debug\TP3_SIM.Properties.Resources.resources
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\obj\Debug\TP3_SIM.csproj.GenerateResource.cache
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\obj\Debug\TP3_SIM.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\obj\Debug\TP3_SIM.exe
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\obj\Debug\TP3_SIM.pdb
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\GeneradorDeAleatoreos.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\GeneradorDeAleatoreos.pdb
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\obj\Debug\TP3_SIM.TP3_SIM.resources
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\obj\Debug\TP3_SIM.csproj.CopyComplete
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\MathNet.Numerics.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\MathNet.Numerics.xml
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\TP3_SIM.exe.config
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\TP3_SIM.exe
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\TP3_SIM.pdb
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\GeneradorDeAleatoreos.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\MathNet.Numerics.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\GeneradorDeAleatoreos.pdb
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\MathNet.Numerics.xml
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\obj\Debug\TP3_SIM.csprojAssemblyReference.cache
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\obj\Debug\TP3_SIM.TP3_SIM.resources
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\obj\Debug\TP3_SIM.Properties.Resources.resources
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\obj\Debug\TP3_SIM.csproj.GenerateResource.cache
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\obj\Debug\TP3_SIM.csproj.CoreCompileInputs.cache
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\obj\Debug\TP3_SIM.csproj.CopyComplete
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\obj\Debug\TP3_SIM.exe
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\obj\Debug\TP3_SIM.pdb
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\EnvDTE.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\stdole.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\Microsoft.MSXML.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\obj\Debug\RdlCompile.cache
+C:\Users\matut\Dropbox\Mi PC (LAPTOP-5NV6I6V9)\Desktop\TP3_SIM\TP3_SIM\obj\Debug\RdlCompile.compiled
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\EnvDTE.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\stdole.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\obj\Debug\RdlCompile.cache
+C:\Users\Luciano\Desktop\TP3_SIM\TP3_SIM\obj\Debug\RdlCompile.compiled

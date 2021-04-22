@@ -1,0 +1,6 @@
+C:\Users\Luciano\Desktop\TP3_SIM\GeneradorDeAleatoreos\bin\Debug\GeneradorDeAleatoreos.dll
+C:\Users\Luciano\Desktop\TP3_SIM\GeneradorDeAleatoreos\bin\Debug\GeneradorDeAleatoreos.pdb
+C:\Users\Luciano\Desktop\TP3_SIM\GeneradorDeAleatoreos\obj\Debug\GeneradorDeAleatoreos.csprojAssemblyReference.cache
+C:\Users\Luciano\Desktop\TP3_SIM\GeneradorDeAleatoreos\obj\Debug\GeneradorDeAleatoreos.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\Desktop\TP3_SIM\GeneradorDeAleatoreos\obj\Debug\GeneradorDeAleatoreos.dll
+C:\Users\Luciano\Desktop\TP3_SIM\GeneradorDeAleatoreos\obj\Debug\GeneradorDeAleatoreos.pdb
