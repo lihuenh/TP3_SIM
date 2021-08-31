@@ -2,7 +2,7 @@
 
 ## Estructura del Repositorio
 
-     . ISW_G3_4K1
+     .
      ├─── Lineamientos
      ├─── Parciales
      |    ├─── Herramientas
