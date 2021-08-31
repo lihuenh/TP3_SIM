@@ -1,5 +1,7 @@
 # TP3_SIM
 
+**Items de Configuracion**
+
 | **Ítem de configuración** |	            **Regla de nombrado**               |	               **Ubicación**                |
 |:-------------------------|:--------------------------------------------------|:------------------------------------------- |
 | Presentaciones Grupo	| 4K1_ISW_G3_Presentacion_\<NroDeClase>_\<Tema>.pdf | ISW_G3_4K1/teorico/presentaciones_de_grupo/ |
