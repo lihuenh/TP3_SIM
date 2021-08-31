@@ -1,6 +1,6 @@
 # TP3_SIM
 
-**Estructura del Repositorio**
+## Estructura del Repositorio
 
 * ISW_G3_4K1
   * Lineamientos
@@ -15,7 +15,7 @@
     - Presentaciones De Grupo
     - Trabajos Conceptuales
 
-**Items de Configuracion**
+## Items de Configuracion**
 
 | **Ítem de configuración** |	            **Regla de nombrado**               |	               **Ubicación**                |
 |:-------------------------|:--------------------------------------------------|:------------------------------------------- |
