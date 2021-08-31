@@ -2,20 +2,20 @@
 
 ## Estructura del Repositorio
 
-* ISW_G3_4K1
-  * Lineamientos
-  * Parciales
-    - Herramientas
-  * Practico
-    - Evaluables
-    - No Evaluables
-  * Teorico
-    - Bibliografia
-    - Filminas de Clases
-    - Presentaciones De Grupo
-    - Trabajos Conceptuales
+|--> ISW_G3_4K1
+     |---> Lineamientos
+     |---> Parciales
+     |      |---> Herramientas
+     |---> Practico
+     |      |---> Evaluables
+     |      |---> No Evaluables
+     |---> Teorico
+            |---> Bibliografia
+            |---> Filminas de Clases
+            |---> Presentaciones De Grupo
+            |---> Trabajos Conceptuales
 
-## Items de Configuracion**
+## Items de Configuracion
 
 | **Ítem de configuración** |	            **Regla de nombrado**               |	               **Ubicación**                |
 |:-------------------------|:--------------------------------------------------|:------------------------------------------- |
